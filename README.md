@@ -1,6 +1,8 @@
 # TuneBox
 beats visualization in a box (or boxes) 
 
+__description:__ _Tune Box_ is a dynamic 3D minimal sound architecture based on the beat analysis of an input sound.
+
 __Note:__ the song use is  _So Obvious_ by [_LEGS_](http://www.feellegs.com/) listen their EP (or download this song) [here](https://soundcloud.com/feellegs/sets/legs-ep-c-2013).
 
 ##libraries used:
