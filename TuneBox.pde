@@ -54,7 +54,6 @@ void draw() {
         pushMatrix();
         translate(i % numberOfModules * moduleSize, floor(i / numberOfModules * moduleSize), i);
         box(sizeOfModules[i] += (analysisOfCurrentSounds[i] * amplyfingFactor));
-        box(40, 20, 50);
         popMatrix();
     }
 }
